@@ -8,11 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^14.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@langchain/openai": "^0.0.22",
     "@llamaindex/chat-ui": "^0.3.2",
     "ai": "^4.3.5",
-    "@langchain/openai": "^0.0.22"
+    "fuse.js": "^7.1.0",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }

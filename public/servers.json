@@ -1,23 +1,26 @@
 [
-    {
-      "name": "MCP-Server-ML-1",
-      "category": "Machine Learning",
-      "description": "Powerful server for Machine Learning workloads."
-    },
-    {
-      "name": "MCP-Server-DS-2",
-      "category": "Data Science",
-      "description": "Optimized server for Data Science pipelines."
-    },
-    {
-      "name": "MCP-Server-NLP-5",
-      "category": "NLP",
-      "description": "Best server for Natural Language Processing tasks."
-    },
-    {
-      "name": "MCP-Server-General-7",
-      "category": "General",
-      "description": "General purpose MCP server for various tasks."
-    }
-  ]
-  
+  {
+    "name": "MCP-Server-ML-1",
+    "category": "Machine Learning",
+    "description": "Powerful server for Machine Learning workloads.",
+    "capabilities": []
+  },
+  {
+    "name": "MCP-Server-DS-2",
+    "category": "Data Science",
+    "description": "Optimized server for Data Science pipelines.",
+    "capabilities": []
+  },
+  {
+    "name": "MCP-Server-NLP-5",
+    "category": "NLP",
+    "description": "Best server for Natural Language Processing tasks.",
+    "capabilities": []
+  },
+  {
+    "name": "MCP-Server-Project-3",
+    "category": "Projects",
+    "description": "Dedicated server for generating projects from user requirements.",
+    "capabilities": ["project_creation"]
+  }
+]
